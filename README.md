@@ -12,8 +12,12 @@ run sh train.sh for training, test.sh for testing.
 
 
 @article{hu2022high,
+
   title={High-resolution Iterative Feedback Network for Camouflaged Object Detection},
+  
   author={Hu, Xiaobin and  Wang,Shuo and Qin, Xuebin and Dai, Hang and Ren, Wenqi and Tai, Ying and Wang, Chengjie and Shao, Ling},
+  
   journal={arXiv preprint arXiv:2203.11624},
+  
   year={2022}
 }
