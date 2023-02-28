@@ -1,0 +1,1 @@
+python3 -W ignore MyTesting.py

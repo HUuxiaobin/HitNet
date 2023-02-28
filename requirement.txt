@@ -1,0 +1,5 @@
+requirement:
+pip install timm
+pip install thop
+pip install tensorboardX
+pytorch==1.70
