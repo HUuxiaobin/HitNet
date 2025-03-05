@@ -4,7 +4,7 @@ The more qualitative results of HitNet on four benchmarks (CAMO, CHAMELEON, NC4K
 
 The pretrained model is stored in [Google Drive](https://drive.google.com/file/d/1H3UeZzOk7KL7_-SkUvk6Qijjq_dQrE98/view?usp=share_link). After downloading, please put it in the pretrained_pvt fold.
 
-Our well-trained model is stored in [Google Drive](https://drive.google.com/file/d/1XPncP4DyMgvPl-6NFQVuAahAXZngw6Vf/view?usp=share_link), which should be moved into the fold 'model_pth'. Google driver is out of service, please refer to [Huggingface](https://huggingface.co/stablediffusionuser/hitnet/tree/main).If you have any quesetion, please let me know!
+Our well-trained model is stored in [Google Drive](https://drive.google.com/file/d/1XPncP4DyMgvPl-6NFQVuAahAXZngw6Vf/view?usp=share_link), which should be moved into the fold 'model_pth'. Google driver is out of service, please refer to [Huggingface](https://huggingface.co/stablediffusionuser/hitnet/tree/main).If you have any quesetion, please let me know!  For pretrained model, please use [Google Drive](https://drive.google.com/drive/folders/1Eu8v9vMRvt-dyCH0XSV2i77lAd62nPXV). After downloading, please put it in the pretrained_pvt fold.
 
 run sh train.sh for training, test.sh for testing.
 
